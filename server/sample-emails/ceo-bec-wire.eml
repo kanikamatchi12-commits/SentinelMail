@@ -1,0 +1,40 @@
+Received: from mail-direct.lagos-tech-hosting.ng (mail-direct.lagos-tech-hosting.ng [102.130.114.18])
+	by mail.corporate-defense.io (Postfix) with ESMTPS id 4WbN8S4q32z9Kp
+	for <finance-lead@corporate-defense.io>;
+	Thu, 17 Sep 2026 15:42:10 -0400 (EDT)
+Received: from client-vpn-dhcp-41.ng (105.112.98.54)
+	by mail-direct.lagos-tech-hosting.ng with ESMTP id 8289419;
+	Thu, 17 Sep 2026 20:41:55 +0100
+Authentication-Results: mail.corporate-defense.io;
+	dkim=none;
+	spf=softfail (mail.corporate-defense.io: transitioning domain of ceo@apple-executive-hq.com does not designate 102.130.114.18 as permitted sender);
+	dmarc=fail (p=NONE) header.from=apple-executive-hq.com
+From: "Tim Cook - Chief Executive" <ceo@apple-executive-hq.com>
+Reply-To: <tcook.confidential.acquisitions@consultant-private-mail.org>
+Return-Path: <outbox-391@lagos-tech-hosting.ng>
+To: <finance-lead@corporate-defense.io>
+Subject: CONFIDENTIAL & STRICTLY PRIVATE: Project Titan Acquisition Wire Transfer ($420,000)
+Date: Thu, 17 Sep 2026 19:41:20 +0000
+Message-ID: <BEC-EXEC-99418294-2026@apple-executive-hq.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+
+Good afternoon,
+
+I am currently in an all-day confidential board meeting regarding our upcoming strategic M&A transaction.
+
+Due to strict regulatory embargo restrictions, I cannot speak on the phone right now. I need you to initiate a priority wire transfer of $420,000.00 USD before close of business today to settle legal escrow fees.
+
+Wiring Instructions:
+Beneficiary: Apex Global Strategic Holdings Ltd
+Bank: Deutsche Bank AG London
+IBAN: GB29DEUT12000049281099
+Ref: M&A-TITAN-SETTLEMENT-RESTRICTED
+
+Please process this immediately from the operational reserve fund. Keep this strictly between us until the official press release on Monday. Confirm via reply once the MT103 wire receipt is generated.
+
+Best regards,
+
+Tim Cook
+Chief Executive Officer
+Apple Inc.

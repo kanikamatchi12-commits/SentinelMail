@@ -1,0 +1,31 @@
+Received: from mail-ed1-f65.google.com (mail-ed1-f65.google.com [209.85.208.65])
+	by mx1.enterprise-corp.com (Postfix) with ESMTPS id 3xM9Pz184bza
+	for <security-officer@enterprise-corp.com>;
+	Fri, 18 Sep 2026 09:20:15 -0700 (PDT)
+Authentication-Results: mx1.enterprise-corp.com;
+	dkim=pass header.i=@accounts.google.com header.s=20230601 header.b=X9c81pLk;
+	spf=pass (mx1.enterprise-corp.com: domain of 3z81_ywoTD_E_accounts.google.com designates 209.85.208.65 as permitted sender) smtp.mailfrom=3z81_ywoTD_E_accounts.google.com;
+	dmarc=pass (p=REJECT sp=REJECT dis=NONE) header.from=accounts.google.com
+From: "Google Accounts" <no-reply@accounts.google.com>
+Reply-To: <no-reply@accounts.google.com>
+Return-Path: <3z81_ywoTD_E_accounts.google.com@gaia.bounces.google.com>
+To: <security-officer@enterprise-corp.com>
+Subject: Security alert: New sign-in on macOS workstation
+Date: Fri, 18 Sep 2026 16:20:12 +0000
+Message-ID: <ca59b8c0-128a-49e0-8114-192800192801@google.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+
+Your Google Account was recently accessed from a new device:
+
+Device: Apple MacBook Pro (macOS Sonoma)
+Browser: Chrome 142
+IP: 142.250.190.46 (Mountain View, CA, United States)
+Time: September 18, 2026, 9:20 AM PDT
+
+If this was you, you don't need to do anything. If you don't recognize this activity, please review your recent device activity and secure your account immediately:
+
+https://myaccount.google.com/notifications
+
+Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA.
+You received this mandatory security announcement regarding your Google Account.

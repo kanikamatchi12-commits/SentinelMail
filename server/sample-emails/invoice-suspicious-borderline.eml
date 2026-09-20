@@ -1,0 +1,37 @@
+Received: from relay-node-4.bucharest-cloud.ro (relay-node-4.bucharest-cloud.ro [185.146.232.14])
+	by mail.corporate-defense.io (Postfix) with ESMTPS id 5Gk9L019za
+	for <accounts-payable@corporate-defense.io>;
+	Tue, 15 Sep 2026 14:15:30 +0200
+Received: from vps-client-909.net (89.40.181.29)
+	by relay-node-4.bucharest-cloud.ro with ESMTP id ro_91823901;
+	Tue, 15 Sep 2026 15:15:10 +0300
+Authentication-Results: mail.corporate-defense.io;
+	dkim=none;
+	spf=neutral (mail.corporate-defense.io: 185.146.232.14 is neither permitted nor denied by domain of cloud-billing-desk.com);
+	dmarc=none (p=NONE) header.from=cloud-billing-desk.com
+From: "Global Infrastructure Services" <billing@cloud-billing-desk.com>
+Reply-To: <collections-dispatch@overdue-invoices-hub.info>
+Return-Path: <bounce@bucharest-cloud.ro>
+To: <accounts-payable@corporate-defense.io>
+Subject: Past Due Notice: Outstanding Invoice #INV-882910-B ($14,350.00) - Action Required
+Date: Tue, 15 Sep 2026 12:14:50 +0000
+Message-ID: <INV-REMIND-882910@cloud-billing-desk.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+
+ATTENTION: Accounts Payable Department
+
+According to our accounts registry, invoice #INV-882910-B for enterprise cloud compute hosting services is now 14 days overdue.
+
+Total Outstanding Balance: $14,350.00 USD
+Due Date: September 01, 2026
+
+To avoid suspension of your core web cluster hosting services, please remit payment or review the attached electronic invoice link immediately:
+
+https://overdue-invoices-hub.info/download/invoice-882910.pdf.exe
+
+If you have already processed this remittal, please notify our collections desk at collections-dispatch@overdue-invoices-hub.info with the banking confirmation transaction ID.
+
+Thank you,
+Accounts Receivable & Billing Control
+Global Infrastructure Services

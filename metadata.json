@@ -1,0 +1,6 @@
+{
+  "name": "SentinelMail — AI-Powered Email Threat Detection, GeoLocation and Forensic Intelligence Platform",
+  "description": "SentinelMail analyzes suspicious emails to detect social engineering and spoofing attacks, traces their transmission path across intermediate mail relays with approximate geographic intelligence, and compiles an explainable digital forensic brief for incident response and evidence preservation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,33 @@
+Received: from mail232.sendgrid.net (mail232.sendgrid.net [167.89.84.232])
+	by mx.receiver-domain.com with ESMTPS id sg_8192019
+	for <developer@receiver-domain.com>;
+	Wed, 16 Sep 2026 10:05:22 +0000
+Authentication-Results: mx.receiver-domain.com;
+	dkim=pass header.i=@sendgrid.net header.s=smtpapi;
+	spf=pass (mx.receiver-domain.com: domain of bounces+9821-dev@news.cyberthreatintel.org designates 167.89.84.232 as permitted sender);
+	dmarc=pass (p=QUARANTINE) header.from=cyberthreatintel.org
+From: "CyberSec Digest" <newsletter@cyberthreatintel.org>
+Reply-To: <editorial@cyberthreatintel.org>
+Return-Path: <bounces+9821-dev@news.cyberthreatintel.org>
+To: <developer@receiver-domain.com>
+Subject: Issue #184: Zero-day Vulnerability in Open-Source Mail Daemons & Threat Briefing
+Date: Wed, 16 Sep 2026 10:04:10 +0000
+List-Unsubscribe: <https://cyberthreatintel.org/unsubscribe?id=sub_99218>, <mailto:unsubscribe@cyberthreatintel.org>
+Message-ID: <SG.192830192801.news@cyberthreatintel.org>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+
+Welcome to this week's edition of the CyberSec Digest!
+
+Top Stories this week:
+1. Deep-dive into modern BEC campaign tactics targeting cloud ERPs.
+2. New zero-day patch released for critical mail relays.
+3. Analysis of AI-generated spear-phishing benchmarks.
+
+Read the full reports on our engineering blog:
+https://cyberthreatintel.org/articles/issue-184-breakdown
+
+Want to manage your preferences?
+Unsubscribe anytime: https://cyberthreatintel.org/unsubscribe?id=sub_99218
+
+CyberThreatIntel Media Group, 500 Howard St, San Francisco, CA 94105.

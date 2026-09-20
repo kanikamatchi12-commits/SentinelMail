@@ -1,0 +1,37 @@
+Received: from mail-relay-92.moscow-cloud-vps.ru (mail-relay-92.moscow-cloud-vps.ru [185.220.101.5])
+	by mx.google.com with ESMTPS id q19si8384812plm.12.2026.09.18.04.12.01
+	for <victim-analyst@enterprise-corp.com>;
+	Fri, 18 Sep 2026 04:12:01 -0700 (PDT)
+Received: from unknown (HELO web-spoof-relay) (194.26.29.112)
+	by mail-relay-92.moscow-cloud-vps.ru with SMTP;
+	Fri, 18 Sep 2026 14:11:45 +0300
+Authentication-Results: mx.google.com;
+	dkim=fail header.i=@paypal.com;
+	spf=fail (google.com: domain of service@paypal.com does not designate 185.220.101.5 as permitted sender) smtp.mailfrom=service@paypal.com;
+	dmarc=fail (p=REJECT sp=REJECT dis=NONE) header.from=paypal.com
+From: "PayPal Security Center" <service@paypal.com>
+Reply-To: <security-alert@paypa1-update-system.cc>
+Return-Path: <bounce-daemon@paypa1-update-system.cc>
+To: <victim-analyst@enterprise-corp.com>
+Subject: URGENT: Your PayPal Account Has Been Suspended Due To Unauthorized Activity
+Date: Fri, 18 Sep 2026 11:11:32 +0000
+Message-ID: <20260918111132.84920.pay@paypal.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+
+Dear Customer,
+
+We detected unauthorized access to your PayPal wallet from an unrecognized terminal (IP: 95.161.22.4 - St. Petersburg, Russia).
+
+For your protection, we have temporarily locked your account funds ($4,850.00 USD).
+
+You have 24 HOURS to confirm your identity before your wallet is permanently terminated and handed over to collections.
+
+Click the secure link below immediately to restore your account:
+https://paypa1-update-system.cc/verify/auth-token?id=9928192
+
+Failure to act immediately will result in permanent legal account suspension.
+
+Sincerely,
+PayPal Fraud Resolution Department
+https://www.paypal.com/security
