@@ -31,7 +31,7 @@ jobs:
         run: npm install --legacy-peer-deps
 
       - name: Build
-        run: npm run build
+        run: npm install react-is --legacy-peer-deps && npm run build
 
       - name: Upload website
         uses: actions/upload-pages-artifact@v3
